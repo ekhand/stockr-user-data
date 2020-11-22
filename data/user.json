@@ -1,0 +1,25 @@
+{
+  "ekhand": {
+    "username": "ekhand",
+    "pass": "comp426",
+    "first": "Eli",
+    "last": "Handwerk",
+    "email": "ekhand@live.unc.edu"
+  },
+  "erg": {
+    "username": "erg",
+    "pass": "password",
+    "first": "Eli",
+    "last": "Handwerk",
+    "email": "ekhandwerk@gmail.com",
+    "stocks": []
+  },
+  "ergy": {
+    "username": "ergy",
+    "pass": "password",
+    "first": "Eli",
+    "last": "Handwerk",
+    "email": "ekhandwerk@gmail.com",
+    "stocks": []
+  }
+}
