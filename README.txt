@@ -38,7 +38,7 @@ const result = await axios({
   }
 });
 
-Returns the posted user object.
+Returns a response containing the posted user object.
 500 error if username is already taken.
 
 --------PUT---------
@@ -52,7 +52,7 @@ const result = await axios({
   }
 });
 
-Returns edited user object with stock added to their stocks array.
+Returns a response containing the edited user object with stock added to their stocks array.
 500 error if user is already following the stock.
 
 const result = await axios({
@@ -64,5 +64,5 @@ const result = await axios({
   }
 });
 
-Returns edited user object with stock removed from their stocks array.
+Returns a response containing the edited user object with stock removed from their stocks array.
 404 error if user is not following the stock.
