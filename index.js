@@ -56,6 +56,9 @@ app.put('/user/:username', (req, res) => {
             let index = u.stocks.indexOf(stock);
             if(index > -1) {
                 u.stocks.splice(index, 1);
+                if (u.stocks == null) {
+                    u.stocks = [];
+                }
             }
             else {
                 res.status(404).send('User does not follow such stock');
