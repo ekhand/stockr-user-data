@@ -1,3 +1,9 @@
 {
-  
+  "ekhand": {
+    "username": "ekhand",
+    "pass": "comp426",
+    "first": "Eli",
+    "last": "Handwerk",
+    "email": "ekhand@live.unc.edu"
+  }
 }
