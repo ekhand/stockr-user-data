@@ -69,7 +69,7 @@ app.put('/user/:username', (req, res) => {
     return;
 })
 
-const port = 3030;
+const port = process.env.PORT;
 app.listen(port, () => {
     console.log("User data API is running on port " + port);
 })
