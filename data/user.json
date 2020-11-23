@@ -8,5 +8,25 @@
     "stocks": [
         "GOOG"
     ]
+  },
+  "arvir": {
+    "username": "arvir",
+    "pass": "password",
+    "first": "Arvin",
+    "last": "Ramirez",
+    "email": "mail@arvin.com",
+    "stocks": [
+        "AAPL"
+    ]
+  },
+  "eliah": {
+    "username": "eliah",
+    "pass": "password",
+    "first": "Eli",
+    "last": "Handwerk",
+    "email": "mail@eli.com",
+    "stocks": [
+        "TSLA"
+    ]
   }
 }
