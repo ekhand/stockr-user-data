@@ -1,9 +1,12 @@
 {
-  "ekhand": {
-    "username": "ekhand",
-    "pass": "comp426",
-    "first": "Eli",
-    "last": "Handwerk",
-    "email": "ekhand@live.unc.edu"
+  "oussr": {
+    "username": "oussr",
+    "pass": "password",
+    "first": "Oussama",
+    "last": "Rahmouni",
+    "email": "mail@ouss.com",
+    "stocks": [
+        "GOOG"
+    ]
   }
 }
